@@ -25,11 +25,6 @@ RegisterNumber:  2122223230159
 
 ```
 
-/*
-Program to implement the linear regression using gradient descent.
-Developed by: Thaksha Rishi
-RegisterNumber:  212223100058
-*/
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
