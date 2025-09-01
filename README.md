@@ -72,20 +72,27 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-### Profit Prediction Graph :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/d64e3ca6-c94d-49b5-9116-a817b1d6d623)
 
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/92625829-e1c6-473f-8f6a-f00d6209bdd6)
-### Compute Cost Value :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/9e384697-fc9f-4277-92c1-841b285cd101)
-### h(x) Value :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/d8b272d5-104d-4cdb-942c-b849e8b54300)
-### Cost function using Gradient Descent Graph :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/c1ac8e0b-f252-4aac-8984-2c9f00da624a)
-### Profit for the Population 35,000 :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/61aad46d-b2d2-47d7-a7d7-ece05043cf30)
-### Profit for the Population 70,000 :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/70f9f953-a1da-4225-be06-19b89e9b42fe)
+<img width="720" height="311" alt="image" src="https://github.com/user-attachments/assets/e03bb6ae-46a6-42ab-bc9e-2a0f506bc4a0" />
+
+<img width="1094" height="303" alt="image" src="https://github.com/user-attachments/assets/38f6f028-0f30-4b57-bd54-3f43cc4ae838" />
+
+<img width="766" height="299" alt="image" src="https://github.com/user-attachments/assets/649aba9a-4d77-42c2-89ad-a7d8e9d9e8c1" />
+
+<img width="685" height="314" alt="image" src="https://github.com/user-attachments/assets/a8147ecc-023f-4f15-b0cf-b4c989dcd7a6" />
+
+<img width="411" height="304" alt="image" src="https://github.com/user-attachments/assets/7ec48c69-6fd6-4335-8b92-40708db603dd" />
+
+<img width="335" height="303" alt="image" src="https://github.com/user-attachments/assets/0cc489fb-b172-4b44-a99d-d366af0bddc3" />
+
+<img width="559" height="313" alt="image" src="https://github.com/user-attachments/assets/5f934adf-84cc-4305-86a7-389f351a8762" />
+
+<img width="613" height="302" alt="image" src="https://github.com/user-attachments/assets/d8795fe4-8fb1-41aa-a84b-6e6b6a2426d5" />
+
+<img width="484" height="312" alt="image" src="https://github.com/user-attachments/assets/1cac16bf-b6ed-4cfd-b085-6286716c8aa2" />
+
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
